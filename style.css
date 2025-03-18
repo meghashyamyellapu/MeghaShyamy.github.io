@@ -396,7 +396,8 @@ noscript {
     text-align: center;
     align-items: center;
     justify-content: center;
-    font-size: 1.5rem
+    font-size: 2rem;
+
 }
 
 .navbar-tabs-ul li:hover:before {
@@ -408,7 +409,7 @@ noscript {
 
 .navbar-tabs-ul a {
     color: var(--color-white);
-    font-weight: 100
+    font-weight: 900;
 }
 
 .logo {
